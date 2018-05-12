@@ -1,9 +1,13 @@
 _repo: A-Nest-of-Linnets_47195
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Jellicoe, John
     gutenberg_agent_id: '8935'
     url: http://www.gutenberg.org/2009/agents/8935
+covers:
+- cover_type: archival
+  image_path: 47195-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Frank Frankfort
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/837
     wikipedia: http://en.wikipedia.org/wiki/Frank_Frankfort_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47195#A-Nest-of-Linnets
 gutenberg_issued: '2014-10-25'
 gutenberg_type: Text
 identifiers:
